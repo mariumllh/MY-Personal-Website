@@ -16,6 +16,7 @@ width:100%;
 min-height:100vh;
 padding:30px 8%;
 background-color:#fbfaf7;
+position: fixed; 
 }
 nav{
 margin-bottom:40px;
