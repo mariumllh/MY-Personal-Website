@@ -12,9 +12,10 @@ color:#111;
 font-family:Arial,sans-serif;
 }
 header{
-width:90%;
+width:100%;
 max-width:1200px;
 min-height:500px;
+min-heigh:100vh;
 margin:40px auto 0;
 padding:30px 8%;
 background-color:#fbfaf7;
@@ -93,7 +94,7 @@ font-size:13px;
 opacity:.85;
 }
 .help-section{
-width:90%;
+width:100%;
 max-width:1200px;
 min-height:300px;
 margin:20px auto 0;
@@ -120,7 +121,7 @@ line-height:1.7;
 margin-bottom:12px;
 }
 .skills-section{
-width:90%;
+width:100%;
 max-width:1200px;
 min-height:350px;
 margin:20px auto 0;
@@ -153,7 +154,7 @@ font-size:13px;
 line-height:1.5;
 }
 .work-section{
-width:90%;
+width:100%;
 max-width:1200px;
 margin:20px auto 0;
 padding:50px 3%;
@@ -188,7 +189,7 @@ display:block;
 border-radius:8px;
 }
 .questions{
-width:90%;
+width:100%;
 max-width:1200px;
 margin:20px auto 0;
 padding:50px 8%;
